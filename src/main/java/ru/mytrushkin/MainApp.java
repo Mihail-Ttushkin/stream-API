@@ -12,7 +12,7 @@ public class MainApp {
                 new Persons("Петя", "Программист", 20),
                 new Persons("Коля", "Менеджер", 35),
                 new Persons("Жана", "Менеджер", 43),
-                new Persons("Люда", "Программист", 54)
+                new Persons("Люда", "Программист", 56)
         ));
 
         List<String> persons_str = persons.stream()
